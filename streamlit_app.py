@@ -105,7 +105,7 @@ filtered_gdp_df = gdp_df[
     & (from_year <= gdp_df['Year'])
 ]
 
-st.header('GDP over time- By JSD', divider='gray')
+st.header('Country wise GDP - By JSD', divider='gray')
 
 ''
 
